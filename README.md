@@ -30,5 +30,11 @@ The implementation is located here [Subproject 2 ](https://github.com/gpealat/ID
 
 # NLP Projects:
 
+3. Implementation of NLP based Multi-input Deep learning model
 
-https://github.com/susmitha-ann/DeepLearning/tree/main 
+In this approach, we combined an LSTM-based model to process payload text with additional dense layers for numerical features such as TCP header data and entropy values, aiming to improve prediction accuracy.
+The implementation for this subproject can be found here.
+[Subproject 3 ](https://github.com/susmitha-ann/DeepLearning/tree/main ).
+
+4. 
+
