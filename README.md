@@ -26,8 +26,9 @@ The first subproject located here [Subproject 1](https://github.com/afra-muhamma
 2. Extenstion of this work
 
 We have decided to extend the work above by adding a new type of data (payload entropy) and a more complex model with.
-The implementation is located here [Subproject 2 ](gpealat/IDSDeepLearning: IDS Deep Learning Intrusion model).
+The implementation is located here [Subproject 2 ](https://github.com/gpealat/IDSDeepLearning: IDS Deep Learning Intrusion model).
 
 # NLP Projects:
+
 
 https://github.com/susmitha-ann/DeepLearning/tree/main 
