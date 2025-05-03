@@ -20,7 +20,7 @@ We have created 2 sub projects:
 
 1. Implementation of a model from a research paper
 
-During our initial research, we have found the paper named [**Intrusion Detection Using Tcp/Ip Single Packet Header Binary Image** ]([https://duckduckgo.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000577)
+During our initial research, we have found the paper named [**Intrusion Detection Using Tcp/Ip Single Packet Header Binary Image** ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000577) <br>
 The first subproject located here [Subproject 1](https://github.com/afra-muhammad/Deeplearning-binary-IDS) is a tensorflow implementation of such paper.
 
 2. Extenstion of this work
