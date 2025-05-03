@@ -36,5 +36,7 @@ In this approach, we combined an LSTM-based model to process payload text with a
 The implementation for this subproject can be found here.
 [Subproject 3 ](https://github.com/susmitha-ann/DeepLearning/tree/main ).
 
-4. 
+4. Implementation of NLP based binary classifier model :
+   
+This approach focuses on using Natural Language Processing (NLP) techniques to build a binary classification Intrusion Detection System (IDS), it treats HTTP traffic payloads as textual data and analyzes them using fingerprinted attack patterns. The model is based on DistilBERT for both tokenization and classification. You can find the full implementation of this subproject here: [Subproject 4 ](https://github.com/wafa26/nlp-ids-binary-classifier).
 
